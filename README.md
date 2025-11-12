@@ -1,6 +1,7 @@
 # TryHackMe - Offensive Security Intro
 
 This repository contains my personal notes, summaries, and safe writeups from the **TryHackMe "Offensive Security Intro"**.
+
   Task 1 - Introduction to Defensive Security
   Task 2 - Exploring the SOC
   Task 3 - Digital Forensics
